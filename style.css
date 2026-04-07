@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+}
+.google-logo span {
+  display: inline-block;
+}
+
+.blue {
+  color: #4285F4;
+}
+
+.red {
+  color: #DB4437;
+}
+
+.yellow {
+  color: #F4B400;
+}
+
+.green {
+  color: #0F9D58;
+}
